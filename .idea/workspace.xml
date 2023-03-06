@@ -74,26 +74,24 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PasswortValidiererTest">
-    <configuration name="ExpertExerciseMusterlösungTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.PasswortValidierer">
+    <configuration name="PasswortValidierer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Woche1FrTestGruppe.PasswortValidierer" />
       <module name="ComplexStuffSkillUpBuild" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExpertExerciseMusterlösungTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Woche1FrTestGruppe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntermediateExerciseMusterlösungTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExpertExerciseMusterlösungTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComplexStuffSkillUpBuild" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Woche1DoTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Woche1DoTest" />
-      <option name="MAIN_CLASS_NAME" value="Woche1DoTest.IntermediateExerciseMusterlösungTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpertExerciseMusterlösungTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PasswortValidierer" />
         <item itemvalue="JUnit.PasswortValidiererTest" />
         <item itemvalue="JUnit.NoviceAufgabenTest" />
         <item itemvalue="JUnit.ValidationTest" />
         <item itemvalue="JUnit.ExpertExerciseMusterlösungTest" />
-        <item itemvalue="JUnit.IntermediateExerciseMusterlösungTest" />
       </list>
     </recent_temporary>
   </component>
