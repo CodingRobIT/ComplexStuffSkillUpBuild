@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Woche1DoTest/IntermediateAufgaben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Woche1DoTest/NoviceAufgaben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Woche1DoTest/NoviceAufgabenTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,19 +63,18 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Woche1DoTest" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Woche1FrTestMuster" />
       <recent name="Woche1DoTest" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Woche1DoTest" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.ValidationTest">
-    <configuration name="IntermediateExerciseMusterlösung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Woche1DoTest.IntermediateExerciseMusterlösung" />
-      <module name="ComplexStuffSkillUpBuild" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.PasswortValidiererTest">
     <configuration name="ExpertExerciseMusterlösungTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComplexStuffSkillUpBuild" />
       <option name="PACKAGE_NAME" value="" />
@@ -97,12 +99,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoviceExerciseTest.calculateSquare_whenZero_shouldReturnZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NoviceAufgabenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ComplexStuffSkillUpBuild" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NoviceExerciseTest" />
-      <option name="METHOD_NAME" value="calculateSquare_whenZero_shouldReturnZero" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Woche1DoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Woche1DoTest" />
+      <option name="MAIN_CLASS_NAME" value="Woche1DoTest.NoviceAufgabenTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswortValidiererTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ComplexStuffSkillUpBuild" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Woche1FrTestGruppe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Woche1FrTestGruppe" />
+      <option name="MAIN_CLASS_NAME" value="Woche1FrTestGruppe.PasswortValidiererTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PasswortValidiererTest" />
+        <item itemvalue="JUnit.NoviceAufgabenTest" />
         <item itemvalue="JUnit.ValidationTest" />
         <item itemvalue="JUnit.ExpertExerciseMusterlösungTest" />
         <item itemvalue="JUnit.IntermediateExerciseMusterlösungTest" />
-        <item itemvalue="Application.IntermediateExerciseMusterlösung" />
-        <item itemvalue="JUnit.NoviceExerciseTest.calculateSquare_whenZero_shouldReturnZero" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678040469930</updated>
-      <workItem from="1678040471377" duration="4501000" />
+      <workItem from="1678040471377" duration="4869000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -156,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678044870371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben.">
+      <created>1678086303163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678086303163</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
