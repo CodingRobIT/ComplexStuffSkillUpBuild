@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="Basic setting created.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReversStringExpert1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woche1DoTest/ExpertExerciseMusterlösung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woche1DoTest/IntermediateExerciseMusterlösung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woche1DoTest/NoviceExerciseMusterlösung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Woche1DoTest/ExpertExerciseMusterlösungTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Woche1DoTest/IntermediateExerciseMusterlösungTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Woche1DoTest/NoviceExerciseMusterlösungTest.java" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +61,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Woche1FrTestMuster" />
       <recent name="Woche1DoTest" />
     </key>
   </component>
@@ -147,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678040469930</updated>
-      <workItem from="1678040471377" duration="3213000" />
+      <workItem from="1678040471377" duration="4501000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -156,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678040648965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben.">
+      <created>1678044870371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678044870371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic setting created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic setting created." />
+    <MESSAGE value="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben." />
+    <option name="LAST_COMMIT_MESSAGE" value="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben." />
   </component>
 </project>
