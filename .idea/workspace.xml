@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woche1DoTest/IntermediateAufgaben.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woche1DoTest/NoviceAufgaben.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Woche1DoTest/NoviceAufgabenTest.java" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="N/A">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,20 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/Woche1DoTest" />
@@ -64,17 +62,20 @@
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Woche1FrTestGruppe" />
       <recent name="Woche1DoTest" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Woche1FrTestGruppe" />
       <recent name="Woche1FrTestMuster" />
       <recent name="Woche1DoTest" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Woche1FrTestGruppe" />
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PasswortValidierer">
+  <component name="RunManager" selected="Application.ReversStringExpert1">
     <configuration name="PasswortValidierer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Woche1FrTestGruppe.PasswortValidierer" />
       <module name="ComplexStuffSkillUpBuild" />
@@ -88,11 +89,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpertExerciseMusterlösungTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReversStringExpert1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ReversStringExpert1" />
       <module name="ComplexStuffSkillUpBuild" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExpertExerciseMusterlösungTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWarsTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReversStringExpert1" />
         <item itemvalue="Application.PasswortValidierer" />
         <item itemvalue="JUnit.PasswortValidiererTest" />
         <item itemvalue="JUnit.NoviceAufgabenTest" />
         <item itemvalue="JUnit.ValidationTest" />
-        <item itemvalue="JUnit.ExpertExerciseMusterlösungTest" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +165,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678040469930</updated>
-      <workItem from="1678040471377" duration="4869000" />
+      <workItem from="1678040471377" duration="5561000" />
+      <workItem from="1678480424227" duration="1147000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -183,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678086303163</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben.">
+      <created>1678086891194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678086891194</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben.">
+      <created>1678086940806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678086940806</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +222,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic setting created." />
-    <MESSAGE value="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben." />
-    <option name="LAST_COMMIT_MESSAGE" value="Donnerstag Test und &quot;großer&quot; Freitag test Mustervorlage von der Erste woche hinzugefügt mit Testaufgaben." />
+    <MESSAGE value="Freitag Test der Gruppe hinzugefügt + Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Freitag Test der Gruppe hinzugefügt + Test" />
   </component>
 </project>
