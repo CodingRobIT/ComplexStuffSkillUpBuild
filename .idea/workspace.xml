@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReversStringExpert1" />
-        <item itemvalue="Application.PasswortValidierer" />
+        <item itemvalue="JUnit.ValidationTest" />
         <item itemvalue="JUnit.PasswortValidiererTest" />
         <item itemvalue="JUnit.NoviceAufgabenTest" />
-        <item itemvalue="JUnit.ValidationTest" />
+        <item itemvalue="Application.ReversStringExpert1" />
+        <item itemvalue="Application.PasswortValidierer" />
       </list>
     </recent_temporary>
   </component>
