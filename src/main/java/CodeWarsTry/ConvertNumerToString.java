@@ -33,7 +33,7 @@ public class ConvertNumerToString {
         return String.valueOf(num);                 //anstelle von .toString wird .valueOf genommen
     }
 
-    public static String numberToString(int num) { //Richtig coole version
+    public static String numberToString3(int num) { //Richtig coole version
         return ""+num;          //"" steht vermutlich für String und +num gibt an was in einen String verwandelt werden soll
     }
 
