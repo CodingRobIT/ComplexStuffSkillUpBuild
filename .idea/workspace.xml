@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="N/A" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="N/A">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ConvertNumerToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ConvertNumerToString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,13 +81,13 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReversStringExpert1">
-    <configuration name="PasswortValidierer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Woche1FrTestGruppe.PasswortValidierer" />
+  <component name="RunManager" selected="Application.ConvertNumerToString">
+    <configuration name="ConvertNumerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ConvertNumerToString" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Woche1FrTestGruppe.*" />
+          <option name="PATTERN" value="CodeWarsTry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertNumerToString" />
         <item itemvalue="JUnit.ValidationTest" />
         <item itemvalue="JUnit.PasswortValidiererTest" />
         <item itemvalue="JUnit.NoviceAufgabenTest" />
         <item itemvalue="Application.ReversStringExpert1" />
-        <item itemvalue="Application.PasswortValidierer" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678040469930</updated>
       <workItem from="1678040471377" duration="5561000" />
-      <workItem from="1678480424227" duration="1486000" />
+      <workItem from="1678480424227" duration="4031000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -234,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678482783846</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="N/A">
+      <created>1678483251832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678483251832</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
