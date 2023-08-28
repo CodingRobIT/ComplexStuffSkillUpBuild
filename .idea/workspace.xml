@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="N/A">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ConvertNumerToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ConvertNumerToString.java" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="added CodeWars Kyu6 Multiples of 3 or 5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/Quadrants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2Mbdy7IAN4Fi2iaXTxPw93wC1cZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -81,7 +76,7 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiplesOf3or5">
+  <component name="RunManager" selected="Application.Quadrants">
     <configuration name="ConvertNumerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ConvertNumerToString" />
       <module name="ComplexStuffSkillUpBuild" />
@@ -108,17 +103,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoviceAufgabenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Quadrants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.Quadrants" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Woche1DoTest.*" />
+          <option name="PATTERN" value="CodeWarsTry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Woche1DoTest" />
-      <option name="MAIN_CLASS_NAME" value="Woche1DoTest.NoviceAufgabenTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quadrants" />
         <item itemvalue="Application.MultiplesOf3or5" />
         <item itemvalue="Application.ConvertNumerToString" />
         <item itemvalue="JUnit.ValidationTest" />
         <item itemvalue="JUnit.PasswortValidiererTest" />
-        <item itemvalue="JUnit.NoviceAufgabenTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +166,7 @@
       <updated>1678040469930</updated>
       <workItem from="1678040471377" duration="5561000" />
       <workItem from="1678480424227" duration="4031000" />
+      <workItem from="1693249545869" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -244,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1678483251832</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added CodeWars Kyu6 Multiples of 3 or 5">
+      <option name="closed" value="true" />
+      <created>1693249781945</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693249781945</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +267,7 @@
     <MESSAGE value="Basic setting created." />
     <MESSAGE value="Freitag Test der Gruppe hinzugefügt + Test" />
     <MESSAGE value="N/A" />
-    <option name="LAST_COMMIT_MESSAGE" value="N/A" />
+    <MESSAGE value="added CodeWars Kyu6 Multiples of 3 or 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added CodeWars Kyu6 Multiples of 3 or 5" />
   </component>
 </project>
