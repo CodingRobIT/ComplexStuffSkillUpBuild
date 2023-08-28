@@ -81,7 +81,7 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertNumerToString">
+  <component name="RunManager" selected="Application.MultiplesOf3or5">
     <configuration name="ConvertNumerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ConvertNumerToString" />
       <module name="ComplexStuffSkillUpBuild" />
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversStringExpert1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ReversStringExpert1" />
+    <configuration name="MultiplesOf3or5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.MultiplesOf3or5" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplesOf3or5" />
         <item itemvalue="Application.ConvertNumerToString" />
         <item itemvalue="JUnit.ValidationTest" />
         <item itemvalue="JUnit.PasswortValidiererTest" />
         <item itemvalue="JUnit.NoviceAufgabenTest" />
-        <item itemvalue="Application.ReversStringExpert1" />
       </list>
     </recent_temporary>
   </component>
