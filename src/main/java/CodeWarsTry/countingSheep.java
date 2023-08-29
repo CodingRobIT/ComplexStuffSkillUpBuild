@@ -17,3 +17,15 @@ public class countingSheep {
     }
 }
 
+//StringBuilder murmur: Hier wird eine Variable namens murmur vom Typ StringBuilder deklariert.
+// Dies ist ein Objekt, das verwendet wird, um die Zeichenkette zu erstellen.
+//
+//new StringBuilder(): Mit dieser Anweisung wird eine neue Instanz eines StringBuilder erstellt.
+// Der StringBuilder ist zu diesem Zeitpunkt leer und kann verwendet werden, um Zeichenketten aufzubauen.
+//
+//
+// murmur.append(i): Hier wird die aktuelle Zahl i an den StringBuilder murmur angehängt.
+// Das append-Methode fügt den Wert von i als Text in den StringBuilder ein.
+//
+//.append(" sheep..."): Anschließend wird der Text " sheep..." an den StringBuilder murmur angehängt.
+// Dies fügt das Wort " sheep..." nach der gerade hinzugefügten Zahl ein.
