@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="added comment to countingSheep.java" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="added All Star Code Challenge#18 in Challenge18.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/AllStarCode/Challenge18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -163,6 +166,7 @@
       <workItem from="1678480424227" duration="4031000" />
       <workItem from="1693249545869" duration="1506000" />
       <workItem from="1693327265344" duration="977000" />
+      <workItem from="1693335565046" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -266,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693327891884</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added All Star Code Challenge#18 in Challenge18.java">
+      <option name="closed" value="true" />
+      <created>1693336224657</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693336224657</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +303,7 @@
     <MESSAGE value="added CodeWars Kyu8 Quadrants.java" />
     <MESSAGE value="added CodeWars 8 kyu countingSheep.java" />
     <MESSAGE value="added comment to countingSheep.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comment to countingSheep.java" />
+    <MESSAGE value="added All Star Code Challenge#18 in Challenge18.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="added All Star Code Challenge#18 in Challenge18.java" />
   </component>
 </project>
