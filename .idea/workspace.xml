@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="added All Star Code Challenge#18 in Challenge18.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/AllStarCode/Challenge18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="n/A">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/sumArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,26 +77,13 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Challenge18">
+  <component name="RunManager" selected="Application.sumArrays">
     <configuration name="Challenge18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.AllStarCode.Challenge18" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CodeWarsTry.AllStarCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertNumerToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ConvertNumerToString" />
-      <module name="ComplexStuffSkillUpBuild" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodeWarsTry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,13 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sumArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.sumArrays" />
+      <module name="ComplexStuffSkillUpBuild" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWarsTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumArrays" />
         <item itemvalue="Application.Challenge18" />
         <item itemvalue="Application.countingSheep" />
         <item itemvalue="Application.Quadrants" />
         <item itemvalue="Application.MultiplesOf3or5" />
-        <item itemvalue="Application.ConvertNumerToString" />
       </list>
     </recent_temporary>
   </component>
