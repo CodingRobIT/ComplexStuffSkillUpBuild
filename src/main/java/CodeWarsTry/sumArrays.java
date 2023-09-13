@@ -10,10 +10,6 @@ public class sumArrays {
         for (int i = 0; i < numbers.length; i++) {
             sum += numbers[i]; // hier wird dann zu sum je die neue nummer "numbers" addiert
         }
-        // Alternativ zu der for schleife oben
-//        for (double number : numbers) {
-//            sum += number;
-//        }
 
         return sum; //hier wird dann, wenn die for Schleife fertig ist die gesamt summe "sum" ausgegeben
     }
@@ -26,3 +22,13 @@ public class sumArrays {
         System.out.println("Die Summe der Zahlen ist: " + result);
     }
 }
+
+// Alternativ zu der for schleife oben
+//        for (double number : numbers) {
+//            sum += number;
+//        }
+
+// extrem Clever ist Folgender Code
+//public static double sum(double[] numbers) {
+//    return Arrays.stream(numbers).sum();
+//}
