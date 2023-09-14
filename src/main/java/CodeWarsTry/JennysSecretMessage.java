@@ -2,10 +2,9 @@ package CodeWarsTry;
 
 public class JennysSecretMessage {
     public static String greet(String name) {
-        if(name.equals("Johnny")){
+        if (name.equals("Johnny")) {
             return "Hello, my love!";
-        }
-        else {
+        } else {
             return String.format("Hello, %s!", name);
         }
     }
