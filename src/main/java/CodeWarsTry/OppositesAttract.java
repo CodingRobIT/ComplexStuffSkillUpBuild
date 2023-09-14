@@ -25,3 +25,38 @@ public class OppositesAttract {
         }
     }
 }
+
+// Easy version of the Code. I rly Like that one but i missed the Modulo and Failed on that Version
+// Need to Train that
+
+//public class OppositesAttract {
+//
+//    public static boolean isLove(final int flower1, final int flower2) {
+//        return flower1 % 2 != flower2 % 2;
+//    }
+//
+//}
+
+// This one is also cool but i liek the one above more
+
+//public class OppositesAttract {
+//
+//    public static boolean isLove(final int flower1, final int flower2) {
+//        return (flower1+flower2)%2!=0;
+//    }
+//
+//}
+
+// Also a good version of the code with if else not that bad
+//
+//public class OppositesAttract {
+//
+//    public static boolean isLove(final int flower1, final int flower2) {
+//        if(flower1 % 2 != 0 && flower2 % 2 ==0 || flower1 % 2 == 0 && flower2 % 2 !=0) {
+//            return true;
+//        }
+//        return false;
+//
+//    }
+//
+//}
