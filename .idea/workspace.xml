@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="n/A">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/sumArrays.java" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="Added alternative code in a comment">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/OppositesAttract.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sumArrays">
+  <component name="RunManager" selected="Application.OppositesAttract">
     <configuration name="Challenge18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.AllStarCode.Challenge18" />
       <module name="ComplexStuffSkillUpBuild" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplesOf3or5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.MultiplesOf3or5" />
+    <configuration name="OppositesAttract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.OppositesAttract" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OppositesAttract" />
         <item itemvalue="Application.sumArrays" />
         <item itemvalue="Application.Challenge18" />
         <item itemvalue="Application.countingSheep" />
         <item itemvalue="Application.Quadrants" />
-        <item itemvalue="Application.MultiplesOf3or5" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693336224657</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added sum Arrays from CodeWars">
+      <option name="closed" value="true" />
+      <created>1694631661111</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694631661111</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added alternative code in a comment">
+      <option name="closed" value="true" />
+      <created>1694632323820</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694632323820</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +319,8 @@
     <MESSAGE value="added CodeWars 8 kyu countingSheep.java" />
     <MESSAGE value="added comment to countingSheep.java" />
     <MESSAGE value="added All Star Code Challenge#18 in Challenge18.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added All Star Code Challenge#18 in Challenge18.java" />
+    <MESSAGE value="added sum Arrays from CodeWars" />
+    <MESSAGE value="Added alternative code in a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added alternative code in a comment" />
   </component>
 </project>
