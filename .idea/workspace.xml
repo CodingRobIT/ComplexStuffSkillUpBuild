@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="Added alternative code in a comment">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/OppositesAttract.java" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="added some alternative Codes to OppositesAttract.javattract">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/JennysSecretMessage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OppositesAttract">
+  <component name="RunManager" selected="Application.JennysSecretMessage">
     <configuration name="Challenge18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.AllStarCode.Challenge18" />
       <module name="ComplexStuffSkillUpBuild" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OppositesAttract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.OppositesAttract" />
+    <configuration name="JennysSecretMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.JennysSecretMessage" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quadrants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.Quadrants" />
+    <configuration name="OppositesAttract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.OppositesAttract" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JennysSecretMessage" />
         <item itemvalue="Application.OppositesAttract" />
         <item itemvalue="Application.sumArrays" />
         <item itemvalue="Application.Challenge18" />
         <item itemvalue="Application.countingSheep" />
-        <item itemvalue="Application.Quadrants" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +293,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694632323820</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added New CodWars Challenge OppositesAttract.java (Sie liebt mich Sie Liebt mich nicht) Flower counter">
+      <option name="closed" value="true" />
+      <created>1694715173255</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694715173255</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added some alternative Codes to OppositesAttract.javattract">
+      <option name="closed" value="true" />
+      <created>1694715561166</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694715561166</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +337,8 @@
     <MESSAGE value="added All Star Code Challenge#18 in Challenge18.java" />
     <MESSAGE value="added sum Arrays from CodeWars" />
     <MESSAGE value="Added alternative code in a comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added alternative code in a comment" />
+    <MESSAGE value="added New CodWars Challenge OppositesAttract.java (Sie liebt mich Sie Liebt mich nicht) Flower counter" />
+    <MESSAGE value="added some alternative Codes to OppositesAttract.javattract" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some alternative Codes to OppositesAttract.javattract" />
   </component>
 </project>
