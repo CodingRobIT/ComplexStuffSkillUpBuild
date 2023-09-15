@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ExesAndOhs.java" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="code cleaning">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/AllStarCode/Clock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ExesAndOhs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ExesAndOhs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,9 +79,9 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExesAndOhs">
-    <configuration name="Challenge18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.AllStarCode.Challenge18" />
+  <component name="RunManager" selected="Application.Clock">
+    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.AllStarCode.Clock" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clock" />
         <item itemvalue="Application.ExesAndOhs" />
         <item itemvalue="Application.JennysSecretMessage" />
         <item itemvalue="Application.OppositesAttract" />
         <item itemvalue="Application.sumArrays" />
-        <item itemvalue="Application.Challenge18" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +168,7 @@
       <workItem from="1693249545869" duration="1506000" />
       <workItem from="1693327265344" duration="977000" />
       <workItem from="1693335565046" duration="659000" />
-      <workItem from="1694798073285" duration="1228000" />
+      <workItem from="1694798073285" duration="3964000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -327,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694716067705</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added CodeWars Exes and Ohs">
+      <option name="closed" value="true" />
+      <created>1694799458710</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1694799458710</updated>
+    </task>
+    <task id="LOCAL-00023" summary="code cleaning">
+      <option name="closed" value="true" />
+      <created>1694799758628</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1694799758628</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,6 +376,8 @@
     <MESSAGE value="added some alternative Codes to OppositesAttract.javattract" />
     <MESSAGE value="added CodeWars Test Jenny's secret message." />
     <MESSAGE value="refactor CodeWars Test Jenny's secret message." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor CodeWars Test Jenny's secret message." />
+    <MESSAGE value="added CodeWars Exes and Ohs" />
+    <MESSAGE value="code cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="code cleaning" />
   </component>
 </project>

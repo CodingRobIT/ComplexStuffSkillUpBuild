@@ -42,7 +42,7 @@ public class ExesAndOhs {
         String input15 = "Xxxxertr34";              //false
         String input16 = "";                       //true
 
-        System.out.printf("Put here an Random Test" + getXO("Here!!!"));     // keep in mind no x or o is true
+        System.out.println("Put here an Random Test" + getXO("Here!!!"));     // keep in mind no x or o is true
         System.out.println("Shoul be true = " + getXO(input1));
         System.out.println("Shoul be false = " + getXO(input2));
         System.out.println("Shoul be false = " + getXO(input3));
