@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="added some alternative Codes to OppositesAttract.javattract">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/JennysSecretMessage.java" afterDir="false" />
+    <list default="true" id="616a4aec-9201-4a73-8ef9-844c48dd39e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWarsTry/ExesAndOhs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +78,26 @@
       <recent name="Woche1DoTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JennysSecretMessage">
+  <component name="RunManager" selected="Application.ExesAndOhs">
     <configuration name="Challenge18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.AllStarCode.Challenge18" />
       <module name="ComplexStuffSkillUpBuild" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CodeWarsTry.AllStarCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExesAndOhs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.ExesAndOhs" />
+      <module name="ComplexStuffSkillUpBuild" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWarsTry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,19 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countingSheep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWarsTry.countingSheep" />
-      <module name="ComplexStuffSkillUpBuild" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodeWarsTry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sumArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWarsTry.sumArrays" />
       <module name="ComplexStuffSkillUpBuild" />
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExesAndOhs" />
         <item itemvalue="Application.JennysSecretMessage" />
         <item itemvalue="Application.OppositesAttract" />
         <item itemvalue="Application.sumArrays" />
         <item itemvalue="Application.Challenge18" />
-        <item itemvalue="Application.countingSheep" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +167,7 @@
       <workItem from="1693249545869" duration="1506000" />
       <workItem from="1693327265344" duration="977000" />
       <workItem from="1693335565046" duration="659000" />
+      <workItem from="1694798073285" duration="1228000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setting created.">
       <created>1678040648965</created>
@@ -309,7 +311,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694715561166</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added CodeWars Test Jenny's secret message.">
+      <option name="closed" value="true" />
+      <created>1694716014796</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1694716014796</updated>
+    </task>
+    <task id="LOCAL-00021" summary="refactor CodeWars Test Jenny's secret message.">
+      <option name="closed" value="true" />
+      <created>1694716067705</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1694716067705</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +357,8 @@
     <MESSAGE value="Added alternative code in a comment" />
     <MESSAGE value="added New CodWars Challenge OppositesAttract.java (Sie liebt mich Sie Liebt mich nicht) Flower counter" />
     <MESSAGE value="added some alternative Codes to OppositesAttract.javattract" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some alternative Codes to OppositesAttract.javattract" />
+    <MESSAGE value="added CodeWars Test Jenny's secret message." />
+    <MESSAGE value="refactor CodeWars Test Jenny's secret message." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor CodeWars Test Jenny's secret message." />
   </component>
 </project>
