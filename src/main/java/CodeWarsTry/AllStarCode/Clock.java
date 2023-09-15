@@ -28,3 +28,33 @@ public class Clock {
         System.out.println(h + " Hour " + m + " Minutes and " + s + " Seconds are " + Past(h,m,s) + " Millisecoonds");
     }
 }
+
+// Very Cool variation is this one
+
+//public class Clock
+//{
+//    public static int Past(int h, int m, int s)
+//    {
+//        return h * 3600000 + m * 60000 + s * 1000;
+//    }
+//}
+
+// also cool but not rly mine is this one
+
+//import java.time.Duration;
+//
+//public class Clock {
+//    public static int Past(int h, int m, int s) {
+//        return (int)Duration.ofHours(h).plusMinutes(m).plusSeconds(s).toMillis();
+//    }
+//}
+
+// also rly cool is
+
+//public class Clock
+//{
+//    public static int Past(int h, int m, int s)
+//    {
+//        return 1000*(s+60*(m+60*h));
+//    }
+//}
