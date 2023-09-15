@@ -2,15 +2,12 @@ package CodeWarsTry;
 
 public class ExesAndOhs {
 
-    public static boolean getXO (String str) {
-
+    public static boolean getXO(String str) {
 
         str = str.toLowerCase();
 
-
         int xCount = 0;
         int oCount = 0;
-
 
         for (int i = 0; i < str.length(); i++) {
             char currentChar = str.charAt(i);
@@ -20,8 +17,6 @@ public class ExesAndOhs {
                 oCount++;
             }
         }
-
-
         return xCount == oCount;
     }
 
@@ -35,7 +30,7 @@ public class ExesAndOhs {
         String input4 = "ooxx";                     // true
         String input5 = "xooxx";                    // false
         String input6 = "ooxXm";                    // true
-        String input7 = "zpzpzpp";                  //true
+        String input7 = "zpzpzpp";                  //true  >>> when no 'x' and 'o' is present should return true
         String input8 = "zzoo";                     //false
         // CodeWars Test
         String input9 = "xxxooo";                   //true
@@ -45,8 +40,9 @@ public class ExesAndOhs {
         String input13 = "XxxxooO";                 //false
         String input14 = "zssddd";                  //true
         String input15 = "Xxxxertr34";              //false
-        String input16 =  "";                       //true
+        String input16 = "";                       //true
 
+        System.out.printf("Put here an Random Test" + getXO("Here!!!"));     // keep in mind no x or o is true
         System.out.println("Shoul be true = " + getXO(input1));
         System.out.println("Shoul be false = " + getXO(input2));
         System.out.println("Shoul be false = " + getXO(input3));
